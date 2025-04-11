@@ -1,0 +1,10 @@
+Started by user Aya EzzElarab Mohamed
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\First Project
+[First Project] $ cmd /c call C:\Windows\TEMP\jenkins11166292400077724863.bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\First Project>echo "Running command" 
+"Running command"
+
+C:\ProgramData\Jenkins\.jenkins\workspace\First Project>exit 0 
+Finished: SUCCESS
